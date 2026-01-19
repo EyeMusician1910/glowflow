@@ -5,7 +5,7 @@ import instaIcon from '../assets/insta.png'
 import twitterIcon from '../assets/twitter.png'
 import linkedIcon from '../assets/linkedin.png'
 import helpcenterIcon from '../assets/helpcenter.png'
-import logo from '../assets/logo.svg'
+import logo from '../assets/Logo.svg'
 import cartIcon from '../assets/cart.svg'
 import { useCart } from '../context/CartContext'
 
