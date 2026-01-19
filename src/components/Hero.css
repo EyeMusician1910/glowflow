@@ -1,0 +1,22 @@
+.info-section {
+  padding: 3rem 2rem;
+  background-color: #fafafa;
+  text-align: center;
+}
+
+.info-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.info-container h2 {
+  font-size: 2rem;
+  color: #3d2817;
+  margin-bottom: 1rem;
+}
+
+.info-container p {
+  font-size: 1.1rem;
+  color: #666;
+  line-height: 1.6;
+}
